@@ -24,7 +24,7 @@ This project implements a `House` class in C++ to create and manipulate house ob
 
 After compiling, run the executable to interact with the `House` class. You can modify `main.cpp` to test additional features and see various house configurations in action! 💡
 
-## ⚙️ Compilation
+## ⚙️ Compilations
 
 To compile the program, use the following command:
 
